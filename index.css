@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    overflow: hidden;
+  }
+  
+  #stats {
+    position: absolute;
+    left: 0;
+    top: 0;
+  }
+
+  #info{
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    z-index: 100;
+    color: white;
+    display: block;
+    font-size: 50px;
+    font-family: monospace;
+  }
